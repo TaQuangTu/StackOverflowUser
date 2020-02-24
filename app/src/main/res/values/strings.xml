@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">StackOverflowUser</string>
-    <string name="sorry_message">I am sorry for not completing this test. The reason is last week I have something to do. Therefor, I did not have enough time for this test - The second activity are not complete. But I think it\'s easy to implement as I have done with the first activity.</string>
+    <string name="sorry_message">I am sorry for not completing this test. The reason is last week I had something to do. Therefor, I did not have enough time for this test - The second activity was not completed. But I think it\'s easy to implement as I have done with the first activity.</string>
 </resources>
